@@ -1,0 +1,13 @@
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.deps.json
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.json
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.pdb
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\bin\Debug\netcoreapp2.0\Atividade2EFCore.dll
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\bin\Debug\netcoreapp2.0\Atividade2EFCore.pdb
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.pdb

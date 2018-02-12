@@ -1,0 +1,9 @@
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csprojResolveAssemblyReference.cache
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csproj.CoreCompileInputs.cache
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.AssemblyInfoInputs.cache
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.AssemblyInfo.cs
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.deps.json
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.dll
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.pdb
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.dll
+C:\Users\weskley\Desktop\Atividade_LP2_EF\Atividade1POO\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.pdb
